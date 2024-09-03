@@ -1,8 +1,16 @@
+
+
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <a href="https://git-scm.com/">
+        <img align="center" width="70px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git Logo">
+    </a>
     <span> Versionamento de Código com Git e GitHub</span>
+    <a href="https://github.com/">
+        <img align="center" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo">
+    </a>
 </h1>
+
+
 
 ## Instalação, Configuração e Autenticação
 
